@@ -34,6 +34,10 @@ body {
     border-radius: 10px 10px 0 0;
 }
 
+.without-img {
+    padding: 48px;
+}
+
 h2 {
     font-size: 28px;
 }
@@ -54,7 +58,11 @@ h2 {
 
 .text-price-logo-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 20px;
+    background: #F7F9EF;
+    border-radius: 11px;
+    margin-bottom: 20px;
 }
 
 .price-container {
@@ -89,7 +97,6 @@ h2 {
 }
 
 button {
-    margin-left: 47px;
     width: 354px;
     height: 50px;
     background: hsl(245, 75%, 52%);
@@ -108,6 +115,8 @@ button:hover {
 
 .cancel {
     text-align: center;
+    margin-top: 32px;
+
 }
 
 .cancel a {
