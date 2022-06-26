@@ -1,4 +1,4 @@
-Order summary card []
+Order summary card [https://zanguraa.github.io/order-summary-component/]
 
 what I learned: 
 
