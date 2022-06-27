@@ -5,7 +5,7 @@
 }
 
 body {
-    display: flex;
+   display: flex;
     flex-direction: column;
     Font-size: 16px;
     line-height: 21px;
@@ -13,6 +13,7 @@ body {
     background: #E0E8FF;
     background-image: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
+    background-size: contain;
     background-attachment: fixed;
     max-width: 1440px;
     height: 100vh;
